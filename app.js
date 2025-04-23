@@ -8,7 +8,7 @@ let turnO = true; //playerX, playerO
 let count = 0; //To Track Draw
 
 const winPatterns = [
-  [0, 1, 2],
+  [0, 1, 2],de
   [0, 3, 6],
   [0, 4, 8],
   [1, 4, 7],
